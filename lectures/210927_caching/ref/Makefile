@@ -12,6 +12,9 @@ locality.data: locality
 mountain.png: locality.data mountain.gnuplot
 	gnuplot mountain.gnuplot
 
+mountain2.png: locality.data mountain2.gnuplot
+	gnuplot mountain2.gnuplot
+
 %.o: %.c
 	$(CC) -c $^ $(CFLAGS)
 

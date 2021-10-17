@@ -1,4 +1,4 @@
-#include <stdint.h>
+ #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
@@ -29,7 +29,10 @@ void test(int limit, int stride) {
 }
 
 double test_MiB(int limit, int stride) {
-  // TODO
+  double elems = ((double)limit)/stride;
+  double bytes = elems*(sizeof(int));
+  double MiB = bytes/(1024/1024);
+  return MiB;
 }
 
 double test_time(int limit, int stride) {

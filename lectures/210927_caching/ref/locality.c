@@ -38,7 +38,7 @@ void test(int limit, int stride) {
 
 double test_MiB(int limit, int stride) {
   double elems = ((double)limit)/stride;
-  double bytes = elems*sizeof(int);
+  double bytes = elems*(sizeof(int));
   double MiB = bytes/(1024*1024);
   return MiB;
 }
