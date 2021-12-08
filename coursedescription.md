@@ -55,7 +55,7 @@ The general outline of CompSys will be the following:
 Be aware that CompSys is a semester course, which means that we will be teaching (including having normal exercise and assignments) throughout the exam period (weeks 44 and 45) of Block 1.
 
 ### Exam
-The exam is a written 4-hour open-book exam and will be held on Wednesday Jan 22. Course syllabus is all reading material, including the assignments.
+The exam is a written 4-hour open-book exam and will be held on Wednesday Jan 26. Course syllabus is all reading material, including the assignments.
 We will later publish example sets based on the previous exam iteration and further details on the exam procedure. It will be possible to get limited feedback on the exam performance afterwards.
 
 ### Exercises and Cafées
@@ -100,7 +100,7 @@ Exercises will mainly be with physical help, but we expect also to schedule an o
  * Wednesdays 13:15-15:00
    * These classes are dedicated to exercises and not making assignments.
 
-Week 45, expect no teaching Wednesday, but Friday 13:15 - 15:00 (yet to be organised)
+Week 45, no teaching Wednesday, but Friday 10:15 - 12:00
 
 <!-- See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2021&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=95292&weeks=1-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for room details.
  -->
@@ -149,10 +149,10 @@ Week 45, expect no teaching Wednesday, but Friday 13:15 - 15:00 (yet to be organ
  * Class 5: Lars
    * Monday: NBB 01.3.H.142
    * Wednesday: DIKU 1-0-30
- * Class 6: Joachim
-   * Monday: HCØ A111
+ * Class 6: Joachim (CLOSED)
+<!--    * Monday: HCØ A111
    * Wednesday: DIKU 1-0-37
-
+ -->
  * Class 7: Magnus
    * Online 
 
@@ -188,6 +188,20 @@ Friday:
  * A110 
  * A111
  * C103 (only if others are full)
+
+No cafés in week 45.
+
+#### Week 46
+
+Wednesday 13:15 - 15:00 
+* DIKU 1-0-04
+* DIKU 1-0-34 
+* DIKU 1-0-37
+
+Friday 13:15 - 15:00 
+* DIKU 1-0-04
+* DIKU 1-0-34 
+* DIKU 1-0-37
 
 #### Block 2
 
@@ -250,7 +264,10 @@ When your TA has corrected your submission all members of the group will be give
 
 ## Exam qualification
 
-To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. A0 and A1 is in total considered the same size as the following assignments: this means that points given in A0 is weighted 1/3 while A1 is weighted 2/3.
+To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. 
+
+(NB! the text included a part where A0 and A1 had an collected weight. This was a reference to the assignments for last year, and should have been removed earlier.)
+<!-- A0 and A1 is in total considered the same size as the following assignments: this means that points given in A0 is weighted 1/3 while A1 is weighted 2/3. -->
 
 Furthermore, we will require that you show a reasonable understanding of all parts (ARK, OS, CN) of the course. This is firstly interpreted as achieving points at least 40 % points in each the of topics. To optimise your understanding of the course, and since all assignments are in the syllabus, we encourage you to work with and hand in all sets.
 
